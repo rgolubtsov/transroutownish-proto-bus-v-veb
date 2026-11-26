@@ -1,4 +1,4 @@
-# Trans-RoutE-Townish (transroutownish) :small_blue_diamond: Urban bus routing microservice prototype <img src="https://vlang.io/img/v-logo.png" style="border:0;width:32px" alt="V" />
+# Trans-RoutE-Townish (transroutownish) :small_blue_diamond: Urban bus routing microservice prototype :small_blue_diamond: <img src="https://vlang.io/img/v-logo.png" style="border:0;width:32px" alt="V" />
 
 **A daemon written in V, designed and intended to be run as a microservice,
 <br />implementing a simple urban bus routing prototype**
@@ -17,7 +17,7 @@ A **module** that is developed in this repo is dedicated to find out quickly, wh
 }
 ```
 
-Values `<starting_bus_stop_point>` and `<ending_bus_stop_point>` above are bus stop IDs: unique decimal positive integer numbers, taken right from inputs.
+Values of placeholders `<starting_bus_stop_point>` and `<ending_bus_stop_point>` above are bus stop IDs: unique decimal positive integer numbers, taken right from the inputs passed to this module.
 
 **TBD** :cd:
 
