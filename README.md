@@ -26,7 +26,7 @@ There are some constraints:
 2. All IDs (of routes and bus stops) must be represented by decimal positive integer numbers, in the range `1 .. 2,147,483,647`.
 3. Any bus stop ID may occure in the current route only once, but it might be presented in any other route too.
 
-The list of routes is usually mentioned throughout the source code of this module as a **routes data store**.
+The list of routes is usually mentioned throughout the source code of this module as a **routes data store** and a sample routes data store can be found in the `data/` directory of this repo.
 
 **TBD** :cd:
 
